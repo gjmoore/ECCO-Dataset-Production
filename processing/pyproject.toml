@@ -16,6 +16,9 @@ dependencies = [
     'xarray',
     'xmitgcm',
     'xgcm',
+    'lxml',
+    'bs4',
+    'requests',
     'ecco_cloud_utils @ git+https://github.com/ECCO-GROUP/ECCO-ACCESS/#subdirectory=ecco-cloud-utils',
 ]
 
